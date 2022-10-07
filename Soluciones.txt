@@ -10,3 +10,4 @@
 7-grep -E "blanc | línia" demo.txt
 8-grep -E "Línia|Totes" demo.txt
 9-grep -o -i línia demo.txt | wc -l
+10-grep -r -n línia
