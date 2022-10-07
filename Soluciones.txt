@@ -2,3 +2,4 @@
 2-cd T2L2
 3-sudo nano demo.txt
 4-cat demo.txt | grep esta
+5-cat demo.txt | grep -li línia
