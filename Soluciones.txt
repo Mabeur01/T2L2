@@ -1,1 +1,2 @@
 1- sudo mkdir T2L2
+2-cd T2L2
