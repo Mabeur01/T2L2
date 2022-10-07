@@ -7,3 +7,4 @@
 	sudo cp demo.txt prova/
 	grep -ri línia
 	cp demo.txt demo2.txt
+7-grep -E "blanc | línia" demo.txt
